@@ -15,6 +15,6 @@ compile:
 
 deployment:
   master:
-    branch: first-version
+    branch: master
     commands:
       - ./architect deploy
