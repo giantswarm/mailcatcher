@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/giantswarm/mailcatcher.svg?style=shield)](https://circleci.com/gh/giantswarm/mailcatcher)
 [![Docker Repository on Quay](https://quay.io/repository/giantswarm/mailcatcher/status "Docker Repository on Quay")](https://quay.io/repository/giantswarm/mailcatcher)
 
 # Mailcatcher Docker Image
