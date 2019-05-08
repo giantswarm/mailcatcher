@@ -1,3 +1,5 @@
+[![Docker Repository on Quay](https://quay.io/repository/giantswarm/mailcatcher/status "Docker Repository on Quay")](https://quay.io/repository/giantswarm/mailcatcher)
+
 # Mailcatcher Docker Image
 
 This is a repo to create a Docker image for [MailCatcher](https://mailcatcher.me/).
